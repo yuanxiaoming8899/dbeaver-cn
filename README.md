@@ -1,73 +1,57 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dbeaver_news.svg?style=social&label=Follow%20%40dbeaver_news)](https://twitter.com/dbeaver_news)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa0bb9cf5a904c7d87424f8f6351ba92)](https://app.codacy.com/gh/dbeaver/dbeaver/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![Apache 2.0](https://img.shields.io/github/license/cronn-de/jira-sync.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-
-<img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-icon-64x64.png" align="right"/>
-
-# DBeaver
-
-Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.  
-Supports any database which has JDBC driver (which basically means - ANY database). 
-<a href="https://dbeaver.com/download/">Commercial versions</a> also support non-JDBC datasources such as 
-MongoDB, Cassandra, Couchbase, Redis, BigTable, ScyllaDB, DynamoDB, etc.
-You can find the list of all databases supported in commercial versions 
-<a href="https://dbeaver.com/databases/">here</a>.
-
-* Has a lot of <a href="https://github.com/dbeaver/dbeaver/wiki">features</a> including metadata editor, SQL editor, rich data editor, ERD, data export/import/migration, SQL execution plans, etc.
-* Based on <a href="https://wiki.eclipse.org/Rich_Client_Platform">Eclipse</a> platform.
-* Uses plugins architecture and provides additional functionality for the following databases: MySQL/MariaDB, PostgreSQL, Greenplum, Oracle, IBM Db2, Exasol, SQL Server, Sybase/SAP ASE, SQLite, Firebird, H2, HSQLDB, Derby, Teradata, Vertica, Netezza, Informix, etc.
-
-<a href="https://dbeaver.io/product/dbeaver-ss-mock.png"><img src="https://dbeaver.io/product/dbeaver-ss-mock.png" width="400"/></a>
-<a href="https://dbeaver.io/product/dbeaver-ss-erd.png"><img src="https://dbeaver.io/product/dbeaver-ss-erd.png" width="400"/></a>
-<a href="https://dbeaver.io/product/dbeaver-ss-classic-new.png"><img src="https://dbeaver.io/product/dbeaver-ss-classic-new.png" width="400"/></a>
-<a href="https://dbeaver.io/product/dbeaver-ss-dark-new.png"><img src="https://dbeaver.io/product/dbeaver-ss-dark-new.png" width="400"/></a>
-
-## Download
-
-You can download prebuilt binaries from <a href="https://dbeaver.io/download" target="_blank">official website</a> or directly from <a href="https://github.com/dbeaver/dbeaver/releases">GitHub releases</a>.  
-You can also download <a href="https://dbeaver.io/files/ea" target="_blank">Early Access</a> version. We publish daily.  
-
-## Running
-
-Just run an installer (or unzip an archive) and run `dbeaver`.  
-
-Note: DBeaver needs Java to run. <a href="https://adoptium.net/" target="_blank">Open JDK 17</a> is included in all DBeaver distributions.
-You can change default JDK version by replacing directory `jre` in dbeaver installation folder.
-
-## Documentation
-
-* <a href="https://github.com/dbeaver/dbeaver/wiki">WIKI</a>
-* <a href="https://github.com/dbeaver/dbeaver/issues">Issue tracker</a>
-
-## Build from sources
-
-<a href="https://github.com/dbeaver/dbeaver/wiki/Build-from-sources">See this article.</a>
-
-## Notes
-
-- For bug reports and feature requests - please <a href="https://github.com/dbeaver/dbeaver/issues">create a ticket</a>.
-- If you have any questions, ideas, etc - please <a href="https://github.com/dbeaver/dbeaver/discussions">start a discussion</a>.
-- Pull requests are welcome.
-- Visit https://dbeaver.io or https://dbeaver.com for more information.
-- Follow us on [Twitter](https://twitter.com/dbeaver_news/) and [Facebook](https://www.facebook.com/DBeaverCorporation)
-- Thanks for using DBeaver! Star if you like it.
-
-## Contribution: help the Beaver!
-
-Hooray, we have reached 30k+ stars on GitHub and continue to grow!  
-That's really cool, and we are glad that you like DBeaver.
-
-- We are actively looking for new source code contributors. We have added labels “Good first issue” and “Help wanted” to some tickets. If you want to be a part of our development team, just be brave and take a ticket.
-- You can buy <a href="https://dbeaver.com/buy/">one of our commercial versions</a>. They include NoSQL databases support, additional extensions, and official online support. Also, licensed users have priorities in bug fixes and the development of new features.
-
-Thank you!  
-
-- <a href="https://github.com/dbeaver/dbeaver/graphs/contributors">DBeaver Team</a> (contributors)
-
----------
-
-<a href="https://github.com/dbeaver/cloudbeaver/"><img src="https://github.com/dbeaver/cloudbeaver/wiki/images/cloudbeaver-logo.png" width="250"/></a>
-
-DBeaver is a desktop client.  
-If you are looking for a web-based database management tool - check our new product: <a href="https://cloudbeaver.io/">CloudBeaver</a>.  
-It is based on DBeaver platform and thus supports any database and most of DBeaver features.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://twitter.com/dbeaver_news" rel="nofollow"><img src="https://camo.githubusercontent.com/b70463ff01e6ae39a114237bf0c68119b0c263cb02ac9221eca9f8a4c1c6066f/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f646265617665725f6e6577732e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f77253230253430646265617665725f6e657773" alt="推特网址" data-canonical-src="https://img.shields.io/twitter/url/https/twitter.com/dbeaver_news.svg?style=social&amp;label=Follow%20%40dbeaver_news" style="max-width: 100%;"></a>
+<a href="https://app.codacy.com/gh/dbeaver/dbeaver/dashboard?utm_source=gh&amp;utm_medium=referral&amp;utm_content=&amp;utm_campaign=Badge_grade" rel="nofollow"><img src="https://camo.githubusercontent.com/d05355599ca92620d1db7ad405e5ea2fe3660e07eec3b546457157219c564880/68747470733a2f2f6170702e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f6661306262396366356139303463376438373432346638663633353162613932" alt="科达西徽章" data-canonical-src="https://app.codacy.com/project/badge/Grade/fa0bb9cf5a904c7d87424f8f6351ba92" style="max-width: 100%;"></a>
+<a href="http://www.apache.org/licenses/LICENSE-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/87187083b393d712bc79c097c68073fbed88ed9864ed0769133bd3d575bfaab7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f63726f6e6e2d64652f6a6972612d73796e632e737667" alt="阿帕奇2.0" data-canonical-src="https://img.shields.io/github/license/cronn-de/jira-sync.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-icon-64x64.png"><img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-icon-64x64.png" align="right" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库海狸</font></font></h1><a id="user-content-dbeaver" class="anchor" aria-label="永久链接：DBeaver" href="#dbeaver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向开发人员、SQL 程序员、数据库管理员和分析师的免费多平台数据库工具。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+支持任何具有 JDBC 驱动程序的数据库（这基本上意味着 - 任何数据库）。
+</font></font><a href="https://dbeaver.com/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">商业版本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还支持非 JDBC 数据源，例如 MongoDB、Cassandra、Couchbase、Redis、BigTable、ScyllaDB、DynamoDB 等。您可以在
+</font></font><a href="https://dbeaver.com/databases/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到商业版本支持的所有数据库的列表。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拥有很多</font></font><a href="https://github.com/dbeaver/dbeaver/wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包括元数据编辑器、SQL编辑器、丰富的数据编辑器、ERD、数据导出/导入/迁移、SQL执行计划等。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于</font></font><a href="https://wiki.eclipse.org/Rich_Client_Platform" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eclipse</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">平台。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用插件架构并为以下数据库提供附加功能：MySQL/MariaDB、PostgreSQL、Greenplum、Oracle、IBM Db2、Exasol、SQL Server、Sybase/SAP ASE、SQLite、Firebird、H2、HSQLDB、Derby、Teradata、Vertica、Netezza 、Informix 等</font></font></li>
+</ul>
+<p dir="auto"><a href="https://dbeaver.io/product/dbeaver-ss-mock.png" rel="nofollow"><img src="https://camo.githubusercontent.com/d9e31d7f4fc407d573e90125a3ad077803af3c58088f5e030815d539673128e0/68747470733a2f2f646265617665722e696f2f70726f647563742f646265617665722d73732d6d6f636b2e706e67" width="400" data-canonical-src="https://dbeaver.io/product/dbeaver-ss-mock.png" style="max-width: 100%;"></a>
+<a href="https://dbeaver.io/product/dbeaver-ss-erd.png" rel="nofollow"><img src="https://camo.githubusercontent.com/20a96531862d22860a614bbe11363178777717fbb631520f7504f0a2e04df174/68747470733a2f2f646265617665722e696f2f70726f647563742f646265617665722d73732d6572642e706e67" width="400" data-canonical-src="https://dbeaver.io/product/dbeaver-ss-erd.png" style="max-width: 100%;"></a>
+<a href="https://dbeaver.io/product/dbeaver-ss-classic-new.png" rel="nofollow"><img src="https://camo.githubusercontent.com/9f4cf34e518eff92c16deb140981014a2b6ed221c1de0440bad4e625de9a6362/68747470733a2f2f646265617665722e696f2f70726f647563742f646265617665722d73732d636c61737369632d6e65772e706e67" width="400" data-canonical-src="https://dbeaver.io/product/dbeaver-ss-classic-new.png" style="max-width: 100%;"></a>
+<a href="https://dbeaver.io/product/dbeaver-ss-dark-new.png" rel="nofollow"><img src="https://camo.githubusercontent.com/485a0f57eab1abbc47534e5452890cc8578e1edc74569146051eb27263c57d22/68747470733a2f2f646265617665722e696f2f70726f647563742f646265617665722d73732d6461726b2d6e65772e706e67" width="400" data-canonical-src="https://dbeaver.io/product/dbeaver-ss-dark-new.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font></h2><a id="user-content-download" class="anchor" aria-label="永久链接： 下载" href="#download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以从</font></font><a href="https://dbeaver.io/download" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或直接从</font></font><a href="https://github.com/dbeaver/dbeaver/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 发布</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载预构建的二进制文件。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+您还可以下载</font></font><a href="https://dbeaver.io/files/ea" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">抢先体验</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版本。</font><font style="vertical-align: inherit;">我们每天发布。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font></h2><a id="user-content-running" class="anchor" aria-label="永久链接： 跑步" href="#running"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需运行安装程序（或解压缩存档）并运行</font></font><code>dbeaver</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：DBeaver 需要 Java 才能运行。</font></font><a href="https://adoptium.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Open JDK 17</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含在所有 DBeaver 发行版中。</font><font style="vertical-align: inherit;">您可以通过替换 dbeaver 安装文件夹中的目录来更改默认 JDK 版本</font></font><code>jre</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/dbeaver/dbeaver/wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维基百科</font></font></a></li>
+<li><a href="https://github.com/dbeaver/dbeaver/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题跟踪器</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源头构建</font></font></h2><a id="user-content-build-from-sources" class="anchor" aria-label="永久链接：从源代码构建" href="#build-from-sources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/dbeaver/dbeaver/wiki/Build-from-sources"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅这篇文章。</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">笔记</font></font></h2><a id="user-content-notes" class="anchor" aria-label="永久链接：注释" href="#notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于错误报告和功能请求 - 请</font></font><a href="https://github.com/dbeaver/dbeaver/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建票证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有任何问题、想法等 - 请</font></font><a href="https://github.com/dbeaver/dbeaver/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始讨论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎请求请求。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问</font></font><a href="https://dbeaver.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://dbeaver.io</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://dbeaver.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://dbeaver.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息。</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://twitter.com/dbeaver_news/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font><a href="https://www.facebook.com/DBeaverCorporation" rel="nofollow"><font style="vertical-align: inherit;">Facebook</font></a><font style="vertical-align: inherit;">上关注我们</font></font><a href="https://www.facebook.com/DBeaverCorporation" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢您使用 DBeaver！</font><font style="vertical-align: inherit;">喜欢的话就加星吧。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献：帮助海狸！</font></font></h2><a id="user-content-contribution-help-the-beaver" class="anchor" aria-label="永久链接：贡献：帮助海狸！" href="#contribution-help-the-beaver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">万岁，我们在 GitHub 上的星数已经超过 30k，并且还在继续增长！</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+这真的很酷，我们很高兴您喜欢 DBeaver。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们正在积极寻找新的源代码贡献者。</font><font style="vertical-align: inherit;">我们在一些票证上添加了“第一期良好”和“需要帮助”标签。</font><font style="vertical-align: inherit;">如果您想成为我们开发团队的一员，请勇敢地买票。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以购买</font></font><a href="https://dbeaver.com/buy/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的商业版本之一</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">它们包括 NoSQL 数据库支持、附加扩展和官方在线支持。</font><font style="vertical-align: inherit;">此外，获得许可的用户在错误修复和新功能开发方面拥有优先权。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谢谢你！</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/dbeaver/dbeaver/graphs/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DBeaver 团队</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（贡献者）</font></font></li>
+</ul>
+<hr>
+<p dir="auto"><a href="https://github.com/dbeaver/cloudbeaver/"><img src="https://github.com/dbeaver/cloudbeaver/wiki/images/cloudbeaver-logo.png" width="250" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DBeaver 是一个桌面客户端。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+如果您正在寻找基于 Web 的数据库管理工具 - 请查看我们的新产品：</font></font><a href="https://cloudbeaver.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CloudBeaver</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+它基于DBeaver平台，因此支持任何数据库和大多数DBeaver功能。</font></font></p>
+</article></div>
